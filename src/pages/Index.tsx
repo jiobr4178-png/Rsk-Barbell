@@ -136,7 +136,7 @@ const Index = () => {
         <div className="absolute inset-0 bg-gradient-to-r from-background/90 via-background/70 to-background/90" />
         
         <div className="relative z-10 text-center max-w-4xl mx-auto px-4 animate-fade-in">
-          <Badge className="mb-6 bg-primary/20 text-primary border-primary/30 text-sm font-semibold px-4 py-2">
+          <Badge className="mb-6 bg-primary/20 text-primary border-primary/30 text-sm font-semibold px-4 py-3">
             24/7 ACCESS • OPEN ALWAYS
           </Badge>
           
